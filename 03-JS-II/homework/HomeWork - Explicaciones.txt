@@ -1,0 +1,22 @@
+# Homework: Javascript II
+
+## Instrucciones
+---
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`
+
+Muchas veces, necesitamos realizar una misma tarea, muchas veces. Para estos casos, tenemos FOR, una herramienta que nos puede ayudar. Lo más importante es darle las instrucciones de lo que necesitamos que haga y explicarle en qué momento termina la tarea.
+
+Por ejemplo, podemos pedirle que arme equipos para jugar al fútbol. Si ustedes son 40 chicos, le vamos a pedir que divida a los jugadores en 4 equipos. Entonces, le vamos a decir que al primer jugador, lo mande al equipo 1... al segundo, al equipo 2... al tercero, al equipo 3... y al cuarto al equipo 4. Luego, cuando llegue el quinto jugador (como le pedimos que arme 4 equipos), le va a pedir que vaya al equipo 1 y así... hasta llegar al jugador 40 que es el momento en que la tarea se da por finalizada porque no tenemos más jugadores.
+
+* `&&`, `||`, `!`
+
+Estos símbolos se llaman operadores y nos sirven para entender mejor algunas cosas.
+
+Por ejemplo, el primero se llama "Y" y nos puede ayudar a evaluar aquellos casos donde 2 cosas tienen que cumplirse para lograr un objetivo. Por ejemplo, para poder jugar a la play... tu mamá te pide que hayas terminado la tarea y que haya ordenado tu cuarto. Para poder jugar, tenés que haber hecho las dos cosas. Si terminaste la tarea pero no limpiaste tu cuarto, no podés jugar a la play. Si limpiaste tu cuarto pero no terminaste la tarea, tampoco. Para poder jugar, tienen que estar las dos tareas cumplidas.
+
+El segundo se llama "O" y nos ayuda a entender si alguna de 2 cosas es verdadera. Por ejemplo, para aprobar Educación Física, el profe les pide que hayan hecho todas las prácticas de deportes en clase... o que se hayan sacado un 9 en la prueba. Si un alumno jugó a todos los deportes y se sacó un 5, aprueba la materia. Si otro alumno no jugó a todos los deportes pero se sacó un 10... aprueba la materia. Si algún alumno cumplió con las 2 consignas, también aprueba.
+
+El último se llama NOT y es un operador que va a hacer que las cosas estén al revés. Por ejemplo, nos puede preguntar si dos cosas son no-iguales (o diferentes, podríamos decir). Por ejemplo, podríamos comparar la nota que te sacaste en la prueba de matemática y en la prueba de lengua. ¿Te sacaste una nota diferente en una materia que en la otra? Si en matemáticas te sacaste 10 y en lengua te sacaste 8... podríamos decir que las notas son no-iguales.
+
