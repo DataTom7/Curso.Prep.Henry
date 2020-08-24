@@ -1,0 +1,30 @@
+HomeWork
+
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables
+
+Imaginate que la compu es una lugar donde se guardan cosas y la terminal es la  persona que trabaja ahí y la única que tiene permiso para entrar. Las variables son las cajas donde se guarda la información. Para mantener un orden, cada caja tendrá una etiqueta con un nombre para poder pedirle esa caja a la terminal... cuando la necesitemos. En algunas cajas guardaremos letras, en otras.... números. Otras cajas guardarán un SI, otras cajas guardarán un NO. Lo importante es decirle el nombre correcto de la caja que estamos buscando (a la terminal) para que pueda ir a buscarla. Una vez que nos traen la caja, podemos sacar lo que tiene adentro, podemos meterle más cosas. Las variables son cajas que podemos manejar según lo que necesitemos.
+
+Strings
+
+
+Las strings son cajas donde (generalmente) se guardan letras. Puede ser una o pueden ser muchas. Si están ordenadas, pueden forman palabras. También pueden ser palabras que incluyan números. Por ejemplo, una calle. En estas cajas, se puede guardar información en forma de letras y números. Como las letras no se pueden sumar ni restar... cuando le pidamos a la terminar que sume dos letras... por ejemplo, "a" + "b" ... las va a guardar juntas en una caja... "ab".
+
+Funciones (argumentos, return)
+
+Las funciones son máquinas que hacen siempre lo mismo. La primera vez le tenemos que enseñar a la máquina qué tiene qué hacer. La máquina tiene una pantalla donde nos muestra cosas. Por ejemplo, podemos crear una función que nos muestre un cartel que diga: HOLA. 
+
+También podemos pedirle que, en lugar de mostrar palabras en la pantalla, le podemos pedir que haga diferentes cosas con lo que metemos adentro de la máquina. Imaginemos una cinta con cosas que entran a la máquina y otras cosas que salen del otro lado. Le podemos pedir que sume los números que entran a la máquina... por ejemplo, si entran el 3 y el 4... sale el 7 por el otro lado.
+
+Le podemos pedir lo que querramos, lo más importante es que le expliquemos bien la primera vez para que luego lo pueda repetir una y otra vez, sin equivocarse, cada vez que lo necesitemos.
+
+Declaraciones if
+
+Algunas de las máquinas son muy inteligentes y aprenden. Entonces, le podemos preguntar cosas. Por ejemplo, podemos explicarle la diferencia entre los números pares y los impares. Cuando le hayamos explicado cómo darse cuenta, lo puede hacer sola. Entonces, le podemos meter números de todo tipo y nos va a decir cuáles son pares y cuáles son impares. 
+
+Imaginate que todos los chicos del colegio salen al recreo. A estas máquinas, les podemos pedir que separe a los chicos por edades. 
+
+Valores booleanos (true, false)
+
+Estas cajas son muy importantes y muy simples de entender. Imaginate que adentro de cada caja, se guarda un foquito. En algunas cajas, el foquito está prendido. En otras cajas, está prendido. Podés encontrar un foquito apagado y prenderlo... o al revés... pero en esas cajas, no se puede guardar otra cosa. Esas cajas nos ayudan a entender un montón de cosas. Por ejemplo, una caja se puede llamar Mascotas y estar prendida... si tenés perro... y estar apagada, si no tenés ni perro ni gato.
