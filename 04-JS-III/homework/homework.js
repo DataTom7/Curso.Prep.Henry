@@ -83,7 +83,6 @@ function agregarNumeros(numeros) {
   }
 
   return resultado;
-  
 }
 
 function promedioResultadosTest(resultadosTest) {
