@@ -1,0 +1,22 @@
+# Homework: Javascript V
+
+## Instrucciones
+---
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `prototype`
+
+El prototipo es una versión de un objeto que tiene todas las funciones de este "tipo" de objeto. Por ejemplo, si es el prototipo de un número, contiene todas las funciones que una lista "puede hacer". Podríamos decir que es el primero de su tipo y el más completo.
+
+¿Para que existe? Sigamos con el ejemplo. ¿Qué podemos hacer con una lista? Podríamos calcular cuántas cosas tiene anotadas. ¿Podemos multiplicar una lista por otra? ¿Necesitamos avisarle a cada una de las listas que creamos todas estas reglas? No es necesario porque están todas guardadas en el prototipo de las listas.
+
+Cuando necesitemos saber qué puede hacer un objeto, se lo vamos a poder preguntar. Si la computadora no encuentra la información, se lo va a preguntar al prototipo que es el sabelotodo de las listas. 
+
+
+* _Constructors_ (de Clases)
+
+Un constructor es una función (una máquina) que te ayuda a crear cosas. Si vas a crear algo, te va a decir qué cosas necesitamos hacer para lograrlo y qué tiene que tener. 
+
+Imaginate que vamos a inventar un perro. ¿Qué cosas necesita un perro para existir? Primero, un nombre. Después, la edad. Su comportamiento es importante, puede portarse bien o mal. Además, no olvidemos su salud. ¿Está bien o está enfermo? Como verás, son muchas las preguntas que necesitamos hacer y son muchas las cosas que tenemos que meterle a "eso" que estamos construyendo para que sea un perro.
+
+La clase "Perro" es todo lo que se necesita para crear un perro y el constructor es un asistente que revisará todo eso y te ayudará a que lo hagas bien.
