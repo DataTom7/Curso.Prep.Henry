@@ -106,7 +106,7 @@ function verificarPassword(usuario, password) {
 
   if (password === usuario.password) {
     return true;
-}
+  }
 
 return false;
 }
