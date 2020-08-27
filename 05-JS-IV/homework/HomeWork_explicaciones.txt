@@ -1,0 +1,31 @@
+# Homework: Javascript IV
+
+## Instrucciones
+---
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* Objetos
+
+Los objetos son "cosas" que necesitamos guardar y utilizar para cumplir nuestro objetivo. Un objeto puede ser un auto, una persona, una biblioteca. Lo más importante de los objetos es que tendrán muchas cosas adentro. Cada objeto tendrá sus propias características (se llaman propiedades). 
+
+* Propiedades
+
+Las propiedades son características de los objetos y pueden cambian de uno a otro. Por ejemplo, una persona tendrá nombre, apellido y edad. Un auto tendrá marca, modelo y color. Una biblioteca tendrá domicilio, teléfono y listado de libros que tiene.
+
+* Métodos
+
+Los métodos son funciones (máquinas que saben hacer cosas) dentro de cada objeto en particular. Por ejemplo, un método de una persona podría ser saludar a otra persona. Un método de un auto podría ser calcular los kilómetros que recorrió desde que lo sacaron de la fábrica. Es importante siempre que hablamos de funciones, entender que la primera vez, vamos a necesitar explicarle a la máquina cómo hacer lo que tiene que hacer... para que después pueda hacerlo sola.
+
+* Bucle `for…in`
+
+Este bucle es una manera de poder revisar todo lo que tiene un objeto adentro. Lo que nos permite hacer es revisar uno por uno, todos esos elementos... para mirar cómo son, para cambiarlos, para sacarlos y guardar nuevos. Es una máquina que hace la tarea repetitiva de manera fácil.
+
+El bucle funciona de la siguiente manera: para cada libro de la bibioteca, vamos a hacer esta tarea. Por ejemplo, si la tarea es abrir el libro y anotar el título en un cuaderno... entonces, el bucle abrirá el primer libro y tomará nota del título en el cuaderno. Luego cerrará el libro, lo guardará y seguirá con el siguiente. Esta tarea se repetirá hasta que se hayan abierto todos los libros de la biblioteca. Existen maneras de parar ese bucle. Por ejemplo,  si estamos en medio de la tarea y llega el horario de cerrar la biblioteca, tendremos que parar.
+
+* Notación de puntos vs notación de corchetes
+
+Existen diferentes maneras de llamar a las cosas. Si alguien dijera tu nombre y apellido, responderías el llamado. De la misma manera, si alguien lo dijera al revés, también responderías. Algo similar pasa con las diferentes notaciones por puntos o por corchetes. 
+
+La notación por punto permite llamar de la siguiente forma: primero el nombre del objeto, luego el nombre de la propiedad. Por ejemplo, si quisiera llamar la propiedad nombre de un (objeto) alumno... lo haría de la siguiente forma: alumno.nombre
+
+La notación por corchetes permite llamar de la siguiente forma: primero el nombre del objeto y luego, entre corchetes, sin dejar ningún espacio, el nombre de la propiedad... sería algo así: alumno[nombre]
